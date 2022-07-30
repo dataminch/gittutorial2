@@ -9,4 +9,5 @@ GIT COMMANDS
 6. git rm --cached index.html
 7. git add *html
 8. git add .
+9. git commit
 
